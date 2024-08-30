@@ -1,5 +1,5 @@
 datawarehouse:
-  # target: dev
+  target: dev
   outputs:
     dev:
       type: postgres
